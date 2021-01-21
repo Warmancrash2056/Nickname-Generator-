@@ -1,0 +1,12 @@
+import random
+
+first_name = ['Goku', 'Zebra', 'Cannabis', 'Cat', 'Dog', 'Egg']
+
+last_name = ['Gohan', 'Super Saiyan', 'Bread', 'Wolf', 'Kisser', 'Tree']
+
+print(random.choice(first_name), random.choice(last_name))
+
+
+Output:
+Egg Super Saiyan
+
